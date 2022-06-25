@@ -391,7 +391,7 @@ a:hover {
 #hero {
   width: 100%;
   height: 100vh;
-  background:#554665;
+  background-image: url(../img/vigne.jpg);
   background-size: cover;
 }
 
